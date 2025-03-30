@@ -140,20 +140,20 @@ TextureImporter:
       name: Atacar Albert_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 4
-        width: 25
-        height: 45
+        x: 2
+        y: 5
+        width: 23
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bd1b5175bce267330800000000000000
-      internalID: 3708202794060460507
+      spriteID: 3e29d5d550198864cbfecd197cea6a42
+      internalID: 310461609
       vertices: []
       indices: 
       edges: []
@@ -162,20 +162,20 @@ TextureImporter:
       name: Atacar Albert_1
       rect:
         serializedVersion: 2
-        x: 61
-        y: 5
-        width: 25
-        height: 44
+        x: 62
+        y: 6
+        width: 23
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8c8da72532e681bb0800000000000000
-      internalID: -4965097491189278520
+      spriteID: 35295a971b4a0c34aa403ca30c8d50ad
+      internalID: 297236564
       vertices: []
       indices: 
       edges: []
@@ -184,20 +184,20 @@ TextureImporter:
       name: Atacar Albert_2
       rect:
         serializedVersion: 2
-        x: 121
-        y: 5
-        width: 26
-        height: 44
+        x: 122
+        y: 6
+        width: 24
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d8e33cc49247781d0800000000000000
-      internalID: -3348580077196329331
+      spriteID: 3b2ede2ad3368bd44bf625ece3b31219
+      internalID: -716069600
       vertices: []
       indices: 
       edges: []
@@ -206,20 +206,20 @@ TextureImporter:
       name: Atacar Albert_3
       rect:
         serializedVersion: 2
-        x: 181
-        y: 5
-        width: 33
-        height: 44
+        x: 182
+        y: 6
+        width: 31
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: da5e800a8f6372000800000000000000
-      internalID: 11037965556442541
+      spriteID: 62719e213cd17184fb424ed89a013a20
+      internalID: -29439145
       vertices: []
       indices: 
       edges: []
@@ -228,20 +228,20 @@ TextureImporter:
       name: Atacar Albert_4
       rect:
         serializedVersion: 2
-        x: 241
-        y: 5
-        width: 34
-        height: 44
+        x: 242
+        y: 6
+        width: 32
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c051e0c8867e91280800000000000000
-      internalID: -9071965538148805364
+      spriteID: 614db7d6b1f96c542993d82d506765ab
+      internalID: 461301682
       vertices: []
       indices: 
       edges: []
@@ -250,20 +250,20 @@ TextureImporter:
       name: Atacar Albert_5
       rect:
         serializedVersion: 2
-        x: 301
-        y: 5
-        width: 33
-        height: 44
+        x: 302
+        y: 6
+        width: 31
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 893c1cb054a981990800000000000000
-      internalID: -7415007165124852840
+      spriteID: ff2acffb225c88d4fa252ac2ff73f1fb
+      internalID: 131860341
       vertices: []
       indices: 
       edges: []
@@ -272,20 +272,20 @@ TextureImporter:
       name: Atacar Albert_6
       rect:
         serializedVersion: 2
-        x: 361
-        y: 5
-        width: 26
-        height: 44
+        x: 362
+        y: 6
+        width: 24
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 35d86c335f8301640800000000000000
-      internalID: 5048597808069119315
+      spriteID: cf134b2459a69c446840f83ab6e67c84
+      internalID: 1049429068
       vertices: []
       indices: 
       edges: []
@@ -294,20 +294,20 @@ TextureImporter:
       name: Atacar Albert_7
       rect:
         serializedVersion: 2
-        x: 421
-        y: 5
-        width: 25
-        height: 44
+        x: 422
+        y: 6
+        width: 23
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e090c5c92f1dd6080800000000000000
-      internalID: -9192460424457746162
+      spriteID: 9cd41539df6532b49b0406201786cf84
+      internalID: 2077690668
       vertices: []
       indices: 
       edges: []
@@ -316,20 +316,20 @@ TextureImporter:
       name: Atacar Albert_8
       rect:
         serializedVersion: 2
-        x: 481
-        y: 4
-        width: 25
-        height: 45
+        x: 482
+        y: 5
+        width: 23
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f3f067edef8ab0580800000000000000
-      internalID: -8859802029313880257
+      spriteID: 7c630347dd3dd734fac18a07f721ced9
+      internalID: 340944466
       vertices: []
       indices: 
       edges: []
@@ -338,7 +338,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a8937372a756fe244adc81e37004d03a
     internalID: 0
     vertices: []
     indices: 
@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Atacar Albert_0: 310461609
+      Atacar Albert_1: 297236564
+      Atacar Albert_2: -716069600
+      Atacar Albert_3: -29439145
+      Atacar Albert_4: 461301682
+      Atacar Albert_5: 131860341
+      Atacar Albert_6: 1049429068
+      Atacar Albert_7: 2077690668
+      Atacar Albert_8: 340944466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
