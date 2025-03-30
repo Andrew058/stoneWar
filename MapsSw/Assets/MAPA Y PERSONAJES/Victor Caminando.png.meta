@@ -1,28 +1,25 @@
 fileFormatVersion: 2
-guid: cba37720bd60c194f9988510b9ca68dc
+guid: 94d981c39c9c6294ab58ad982673c4fb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4689240166119133576
-    second: pixilart-sprite_0
+      213: -1605140818592499780
+    second: Victor Caminando_0
   - first:
-      213: 4521018998857404175
-    second: pixilart-sprite_1
+      213: 5282688458530529467
+    second: Victor Caminando_1
   - first:
-      213: -4621546931983276131
-    second: pixilart-sprite_2
+      213: -2223703684843541198
+    second: Victor Caminando_2
   - first:
-      213: 713319685308842295
-    second: pixilart-sprite_3
+      213: 3103409394251484962
+    second: Victor Caminando_3
   - first:
-      213: -8518763969059935731
-    second: pixilart-sprite_4
+      213: 1348293313012323143
+    second: Victor Caminando_4
   - first:
-      213: 4832274764714241032
-    second: pixilart-sprite_5
-  - first:
-      213: 780070264368347037
-    second: pixilart-sprite_6
+      213: -5811335021616574730
+    second: Victor Caminando_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -131,155 +128,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pixilart-sprite_0
+      name: Victor Caminando_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 4
-        width: 25
-        height: 45
+        x: 13
+        y: 5
+        width: 28
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88156002617831140800000000000000
-      internalID: 4689240166119133576
+      spriteID: cb7705d0ee469b9e0800000000000000
+      internalID: -1605140818592499780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixilart-sprite_1
+      name: Victor Caminando_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 4
-        width: 25
-        height: 44
+        x: 74
+        y: 5
+        width: 35
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 5, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0f00b973d2edbe30800000000000000
-      internalID: 4521018998857404175
+      spriteID: bb0a4c50a21ef4940800000000000000
+      internalID: 5282688458530529467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixilart-sprite_2
+      name: Victor Caminando_2
       rect:
         serializedVersion: 2
-        x: 130
-        y: 4
-        width: 25
+        x: 134
+        y: 5
+        width: 30
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9727562d87fcdfb0800000000000000
-      internalID: -4621546931983276131
+      spriteID: 23d6c23c741d321e0800000000000000
+      internalID: -2223703684843541198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixilart-sprite_3
+      name: Victor Caminando_3
       rect:
         serializedVersion: 2
-        x: 196
-        y: 4
-        width: 25
+        x: 195
+        y: 5
+        width: 29
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7318026797836e900800000000000000
-      internalID: 713319685308842295
+      spriteID: 22f48f8c666811b20800000000000000
+      internalID: 3103409394251484962
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixilart-sprite_4
+      name: Victor Caminando_4
       rect:
         serializedVersion: 2
-        x: 261
-        y: 4
-        width: 25
+        x: 255
+        y: 5
+        width: 26
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0a29c2fd4547c980800000000000000
-      internalID: -8518763969059935731
+      spriteID: 7435227ef9916b210800000000000000
+      internalID: 1348293313012323143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pixilart-sprite_5
+      name: Victor Caminando_5
       rect:
         serializedVersion: 2
-        x: 326
-        y: 4
-        width: 25
-        height: 44
+        x: 316
+        y: 5
+        width: 27
+        height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 80c60e7cb40bf0340800000000000000
-      internalID: 4832274764714241032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pixilart-sprite_6
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 4
-        width: 25
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d97358fb5cd53da00800000000000000
-      internalID: 780070264368347037
+      spriteID: 6fec1cd669df95fa0800000000000000
+      internalID: -5811335021616574730
       vertices: []
       indices: 
       edges: []
@@ -288,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: abaaf2bc79841724b8c52532232bf982
     internalID: 0
     vertices: []
     indices: 
@@ -297,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Victor Caminando_0: -1605140818592499780
+      Victor Caminando_1: 5282688458530529467
+      Victor Caminando_2: -2223703684843541198
+      Victor Caminando_3: 3103409394251484962
+      Victor Caminando_4: 1348293313012323143
+      Victor Caminando_5: -5811335021616574730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
