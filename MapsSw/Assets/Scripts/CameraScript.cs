@@ -1,12 +1,15 @@
 using UnityEngine;
 
-public class CameraScript : MonoBehaviour
+public class CameraController : MonoBehaviour
 {
-   public GameObject Albert;
-    void Update()
+    public Transform Albert;
+    public float velocidadCamara = 0.025f;
+    public Vector3 desplazamiento;
+
+    private void LateUpdate()
     {
-        Vector3 position = transform.position;
-        position.x = Albert.transform.position.x;
-        transform.position = position;
+        Vector3 posicionDeseada = Albert.position + desplazamiento;
+        Vector3 posicionSuavizada = Vector3.Lerp(transform.position, posicionDeseada, velocidadCamara);
+        transform.position = posicionSuavizada;
     }
 }
