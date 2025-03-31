@@ -8,6 +8,7 @@ public class AlbertWalkJump : MonoBehaviour
     private Animator _animator;
     private float horizontal; 
     private bool grounded; 
+    private bool atacando;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -23,9 +24,17 @@ public class AlbertWalkJump : MonoBehaviour
         if (horizontal < 0.0f) transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
         else if (horizontal > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 
+        if (Input.GetMouseButtonDown(0) && !atacando && grounded)
+        {
+            Atacando();
+        }
+
         _animator.SetBool("Walking", horizontal != 0.0f && grounded);
         _animator.SetBool("Jumping", !grounded);
         _animator.SetBool("Wait", horizontal == 0.0f && grounded);
+        _animator.SetBool("Attack", atacando);
+
+        
         if (Input.GetKeyDown(KeyCode.W) && grounded)
         {
             Jump();
@@ -41,6 +50,16 @@ public class AlbertWalkJump : MonoBehaviour
     private void Jump()
     {
         _rigidbody2D.AddForce(Vector2.up * jumpForce);
+    }
+
+    private void Atacando()
+    {
+        atacando = true;
+    }
+
+    private void DesactivaAtaque()
+    {
+        atacando = false;
     }
 
     void OnCollisionStay2D(Collision2D collision) {
