@@ -1,28 +1,34 @@
 fileFormatVersion: 2
-guid: 10a5dbe93c2e2e74782802293c6bd84b
+guid: f6d7bdab9b59f354db14acc7a93df03b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4797554331776661768
-    second: AlbertWalk_0
+      213: 3708202794060460507
+    second: Atacar Albert_0
   - first:
-      213: 7852051636601779998
-    second: AlbertWalk_1
+      213: -4965097491189278520
+    second: Atacar Albert_1
   - first:
-      213: -2509766848955202974
-    second: AlbertWalk_2
+      213: -3348580077196329331
+    second: Atacar Albert_2
   - first:
-      213: 6677443583019495672
-    second: AlbertWalk_3
+      213: 11037965556442541
+    second: Atacar Albert_3
   - first:
-      213: -3245270274216593799
-    second: AlbertWalk_4
+      213: -9071965538148805364
+    second: Atacar Albert_4
   - first:
-      213: 7522516991780783005
-    second: AlbertWalk_5
+      213: -7415007165124852840
+    second: Atacar Albert_5
   - first:
-      213: 6935093352427899186
-    second: AlbertWalk_6
+      213: 5048597808069119315
+    second: Atacar Albert_6
+  - first:
+      213: -9192460424457746162
+    second: Atacar Albert_7
+  - first:
+      213: -8859802029313880257
+    second: Atacar Albert_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -131,55 +137,33 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AlbertWalk_1
+      name: Atacar Albert_0
       rect:
         serializedVersion: 2
-        x: 79
-        y: 8
+        x: 2
+        y: 5
         width: 23
-        height: 42
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e177cad8c5718fc60800000000000000
-      internalID: 7852051636601779998
+      spriteID: 3e29d5d550198864cbfecd197cea6a42
+      internalID: 310461609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AlbertWalk_4
+      name: Atacar Albert_1
       rect:
         serializedVersion: 2
-        x: 259
-        y: 8
-        width: 23
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9767f2931eb76f2d0800000000000000
-      internalID: -3245270274216593799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AlbertWalk_0
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 7
+        x: 62
+        y: 6
         width: 23
         height: 42
       alignment: 0
@@ -190,18 +174,128 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26751b148e0f02c46ac264a2f7d49f40
-      internalID: 1894475683
+      spriteID: 35295a971b4a0c34aa403ca30c8d50ad
+      internalID: 297236564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AlbertWalk_2
+      name: Atacar Albert_2
       rect:
         serializedVersion: 2
-        x: 139
-        y: 8
+        x: 122
+        y: 6
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ede2ad3368bd44bf625ece3b31219
+      internalID: -716069600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar Albert_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 6
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62719e213cd17184fb424ed89a013a20
+      internalID: -29439145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar Albert_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614db7d6b1f96c542993d82d506765ab
+      internalID: 461301682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar Albert_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 6
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2acffb225c88d4fa252ac2ff73f1fb
+      internalID: 131860341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar Albert_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf134b2459a69c446840f83ab6e67c84
+      internalID: 1049429068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atacar Albert_7
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 6
         width: 23
         height: 42
       alignment: 0
@@ -212,20 +306,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e6fa9d4d9d7387d42ac79ee7e26d61ce
-      internalID: -1198664445
+      spriteID: 9cd41539df6532b49b0406201786cf84
+      internalID: 2077690668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AlbertWalk_3
+      name: Atacar Albert_8
       rect:
         serializedVersion: 2
-        x: 199
-        y: 8
+        x: 482
+        y: 5
         width: 23
-        height: 42
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,52 +328,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71512a10df8d1144ea8c74da0bc2f87c
-      internalID: 749077888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AlbertWalk_5
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 8
-        width: 23
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ad55bdbba4b2c542ae28a5e0f91d4ad
-      internalID: -464411901
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AlbertWalk_6
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 8
-        width: 23
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9913425d1fd26f4bb0f3095784870fc
-      internalID: 939744814
+      spriteID: 7c630347dd3dd734fac18a07f721ced9
+      internalID: 340944466
       vertices: []
       indices: 
       edges: []
@@ -288,7 +338,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 593fd7532772cee4ca23afd6c05fa84c
+    spriteID: a8937372a756fe244adc81e37004d03a
     internalID: 0
     vertices: []
     indices: 
@@ -298,13 +348,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AlbertWalk_0: 1894475683
-      AlbertWalk_1: 7852051636601779998
-      AlbertWalk_2: -1198664445
-      AlbertWalk_3: 749077888
-      AlbertWalk_4: -3245270274216593799
-      AlbertWalk_5: -464411901
-      AlbertWalk_6: 939744814
+      Atacar Albert_0: 310461609
+      Atacar Albert_1: 297236564
+      Atacar Albert_2: -716069600
+      Atacar Albert_3: -29439145
+      Atacar Albert_4: 461301682
+      Atacar Albert_5: 131860341
+      Atacar Albert_6: 1049429068
+      Atacar Albert_7: 2077690668
+      Atacar Albert_8: 340944466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
