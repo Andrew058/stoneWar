@@ -30,7 +30,7 @@ public class AlbertWalkJump : MonoBehaviour
         }
 
         _animator.SetBool("Walking", horizontal != 0.0f && grounded);
-        _animator.SetBool("Jumping", !grounded);
+        _animator.SetBool("Jumping", !grounded && horizontal == 0.0f);
         _animator.SetBool("Wait", horizontal == 0.0f && grounded);
         _animator.SetBool("Attack", atacando);
 

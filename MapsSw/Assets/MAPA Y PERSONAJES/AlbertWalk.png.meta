@@ -131,13 +131,35 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+      name: AlbertWalk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8093f280f36549240800000000000000
+      internalID: 4797554331776661768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: AlbertWalk_1
       rect:
         serializedVersion: 2
-        x: 79
-        y: 8
-        width: 23
-        height: 42
+        x: 76
+        y: 5
+        width: 25
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,13 +175,57 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: AlbertWalk_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26249f229548b2dd0800000000000000
+      internalID: -2509766848955202974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlbertWalk_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0b6956f8b0bac50800000000000000
+      internalID: 6677443583019495672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: AlbertWalk_4
       rect:
         serializedVersion: 2
-        x: 259
-        y: 8
-        width: 23
-        height: 42
+        x: 256
+        y: 5
+        width: 25
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,89 +241,23 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AlbertWalk_0
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 7
-        width: 23
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26751b148e0f02c46ac264a2f7d49f40
-      internalID: 1894475683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AlbertWalk_2
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 8
-        width: 23
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6fa9d4d9d7387d42ac79ee7e26d61ce
-      internalID: -1198664445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: AlbertWalk_3
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 8
-        width: 23
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71512a10df8d1144ea8c74da0bc2f87c
-      internalID: 749077888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: AlbertWalk_5
       rect:
         serializedVersion: 2
-        x: 319
-        y: 8
-        width: 23
-        height: 42
+        x: 316
+        y: 5
+        width: 25
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2ad55bdbba4b2c542ae28a5e0f91d4ad
-      internalID: -464411901
+      spriteID: d930fe71959556860800000000000000
+      internalID: 7522516991780783005
       vertices: []
       indices: 
       edges: []
@@ -266,20 +266,20 @@ TextureImporter:
       name: AlbertWalk_6
       rect:
         serializedVersion: 2
-        x: 379
-        y: 8
-        width: 23
-        height: 42
+        x: 376
+        y: 5
+        width: 25
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f9913425d1fd26f4bb0f3095784870fc
-      internalID: 939744814
+      spriteID: 23943ab09a66e3060800000000000000
+      internalID: 6935093352427899186
       vertices: []
       indices: 
       edges: []
@@ -288,7 +288,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 593fd7532772cee4ca23afd6c05fa84c
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -298,13 +298,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AlbertWalk_0: 1894475683
+      AlbertWalk_0: 4797554331776661768
       AlbertWalk_1: 7852051636601779998
-      AlbertWalk_2: -1198664445
-      AlbertWalk_3: 749077888
+      AlbertWalk_2: -2509766848955202974
+      AlbertWalk_3: 6677443583019495672
       AlbertWalk_4: -3245270274216593799
-      AlbertWalk_5: -464411901
-      AlbertWalk_6: 939744814
+      AlbertWalk_5: 7522516991780783005
+      AlbertWalk_6: 6935093352427899186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
