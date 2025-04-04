@@ -11,6 +11,6 @@ public class SelectMap : MonoBehaviour
 
     public void PlayLava()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("SampleScene1");
     }
 }
